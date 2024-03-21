@@ -1,5 +1,5 @@
 # SDXL Lightning
-This is a SDXL Lightning template you can use to import your model on Inferless Platform.
+This is a SDXL Lightning template you can use to import your model on Inferless Platform. SDXL-Lightning is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.
 
 ---
 ## Prerequisites
